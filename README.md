@@ -124,4 +124,3 @@ curl --header "Content-Type: application/json" --request POST --data '{"email":"
 ## Автор
 
 m9yrizzo, telegram: @m9yrizzo
-# Foodgram_public
